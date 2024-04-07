@@ -5,7 +5,7 @@ html, body {
     min-height: 180;
     width: 296px;
     color: #FFFFFF;
-    background-color: #041F30;
+    background-color: #240117;
 }
 
 h1 {
@@ -19,13 +19,13 @@ p {
 }
 
 button {
-    background-color: #4BE680;
+    background-color: #DC6B19;
     border: none;
     font-size: 16px;
     padding: 12px 12px;
     margin: 8px 0px 8px 0px;
     border-radius: 3px;
-    box-shadow: 0px 3px 2px 1px #00131f;
+    box-shadow: 0px 3px 2px 1px #500233;
     width: 100%;
     transition: background-color 0.2s ease;
 }
@@ -42,8 +42,8 @@ a:link, a:visited, a:hover, a:active {
 .modal-header {
     align-items: center;
     text-align: center;
-    box-shadow: 0px 3px 2px 1px #00131f;
-    background-color: #05283D;
+    box-shadow: 0px 3px 2px 1px rgb(0, 0, 0);
+    background-color: #41062c;
     padding: 3px;
 }
 
@@ -58,11 +58,11 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .container {
-    background-color: #042538;
+    background-color: #61043f;
     margin: 8px 0px 8px 0px;
     padding: 6px 14px 6px 14px;
     border-radius: 3px;
-    box-shadow: 0px 3px 2px 1px #00131f;
+    box-shadow: 0px 3px 2px 1px #310120;
 }
 
 .container p {

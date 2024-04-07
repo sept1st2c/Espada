@@ -1,6 +1,6 @@
 .insite-highlight {
     position: relative;
-    background: #F7E660;
+    background: #f78660;
 }
 
 .insite-highlight .insite-highlight-body {
@@ -26,13 +26,13 @@
 .insite-highlight-body .modal-header {
     align-items: center;
     text-align: center;
-    box-shadow: 0px 3px 2px -1px #00131f;
-    background-color: #05283D;
+    box-shadow: 0px 3px 2px -1px #1f1900;
+    background-color: #053d0d;
     padding: 3px;
 }
 
 .insite-highlight-body .modal-header h1 {
-    color: #FFFFFF;
+    color: #ffe600;
 
     font-size: 16px;
     font-weight: 300;

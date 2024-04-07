@@ -18,6 +18,8 @@ window.onload = function () {
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
   if (request.message === "update_current_count") {
-    document.getElementsByClassName("number")[0].textContent = request.count;
+    document.getElementsByClassName("number")[0].textContent = Math.floor(
+      request.count / 10
+    );
   }
 });
