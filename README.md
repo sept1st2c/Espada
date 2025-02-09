@@ -1,4 +1,4 @@
 # Espada
 Espada.
 
-ignore this repo
+install it as a google chrome extension
